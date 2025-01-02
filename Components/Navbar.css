@@ -1,0 +1,13 @@
+nav{
+    background-color: aquamarine;
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 1px 1px 1px black;
+
+}
+.AA{
+    background-color: bisque;
+}

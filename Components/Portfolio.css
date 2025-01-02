@@ -1,0 +1,37 @@
+.portfolio {
+    padding: 40px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  
+  .portfolio h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio p {
+    color: #555;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .portfolio-grid {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .portfolio-item {
+    background-color: #e6e6e6;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .portfolio-item:hover {
+    background-color: #ddd;
+  }
+  

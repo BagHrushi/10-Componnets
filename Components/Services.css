@@ -1,0 +1,23 @@
+.services {
+    padding: 40px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .services h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .services ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .services li {
+    color: #555;
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
